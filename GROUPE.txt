@@ -1,4 +1,8 @@
 BELCAID ABDERRAHIM >> page reservation
 IBRAHIM HAJIRI >> home page
+<<<<<<< HEAD
 SOMAAYA BARA >> page menu
  site d inspiration : https://lebelcanto.com/
+=======
+SOUMAYA BARA >> page menu
+>>>>>>> 3189e9e825fd3e52917dd12f9db68c30490fa8b8
